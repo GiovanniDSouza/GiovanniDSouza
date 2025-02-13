@@ -24,6 +24,3 @@
 <div align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200px">
 </div>
-
-![snake gif](https://github.com/GiovanniDSouza/GiovanniDSouza/blob/output/github-contribution-grid-snake.svg)
-
