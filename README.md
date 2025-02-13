@@ -28,3 +28,4 @@
 ## 🐍 Animação de Contribuição
 
 ![Snake animation](https://github.com/GiovanniDSouza/GiovanniDSouza/blob/output/github-contribution-grid-snake.svg)
+
