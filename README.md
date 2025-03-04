@@ -24,3 +24,11 @@
 <div align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200px">
 </div>
+
+<div align="center"> <img src="https://media.giphy.com/media/xUPGcgtKxm4PADyHhW/giphy.gif" width="200px"> </div>
+
+ Bob Esponja animado dando oi:
+<div align="center"> <img src="https://media.giphy.com/media/l4FGvZBvBOb7p3i1G/giphy.gif" width="200px"> </div>
+
+ Bob Esponja e Patrick felizes:
+<div align="center"> <img src="https://media.giphy.com/media/LTpmRMH16G6ey/giphy.gif" width="200px"> </div>
