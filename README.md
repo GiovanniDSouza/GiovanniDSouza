@@ -25,8 +25,7 @@
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200px">
 </div>
 
-Bob Esponja - Welcome
-<div align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTYxam4yem84M3UybzJ0cmU3aDVrdnFlbm8yOTcxaXhnY2VmcWdkdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/12wteMT3HDyRBu/giphy.gif" width="200px"> </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/xUPGcgtKxm4PADyHhW/giphy.gif" width="200px">
 
-Meme - Welcome to the party!
-<div align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzQ1dmJkcnBwaTg3aGNmOXBvZnFoZnE3dDJjbGk3b2g5anY0cGpyNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYRzcWP9c6JWrte/giphy.gif" width="200px"> </div>
+</div>
